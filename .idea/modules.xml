@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/diploma.iml" filepath="$PROJECT_DIR$/.idea/diploma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../univ/Big Data/heart-disease-prediction/.idea/heart-disease-prediction.iml" filepath="$PROJECT_DIR$/../univ/Big Data/heart-disease-prediction/.idea/heart-disease-prediction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../heart-condition-checker/.idea/heart-disease-prediction-app.iml" filepath="$PROJECT_DIR$/../heart-condition-checker/.idea/heart-disease-prediction-app.iml" />
+    </modules>
+  </component>
+</project>
